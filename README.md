@@ -1,6 +1,9 @@
 # minux
 Michael's Linux
+
+
 Steps:
+
 sudo apt-get install bison
 sudo apt-get install libssl-dev
 sudo apt-get install libelf-dev
